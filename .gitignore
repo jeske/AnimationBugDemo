@@ -1,0 +1,9 @@
+
+AnimationBugDemo/bin/*
+AnimationBugDemo/obj/*
+iOS/bin/*
+iOS/obj/*
+Droid/bin/*
+Droid/obj/*
+*.userprefs
+packages/*
